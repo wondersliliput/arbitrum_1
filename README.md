@@ -6,7 +6,7 @@ This repo represents the old "classic" Arbitrum tech stack; Arbitrum One was upg
 
 For the current Arbitrum Nitro codebase, see [Nitro](https://github.com/OffchainLabs/nitro).
 
-- [Discord](https://discord.gg/ZpZuw7p)
+- [Discord] (https://discord.gg/ZpZuw7p)
 - [Developer guide](https://developer.offchainlabs.com)
 
 This repository is offered under the Apache 2.0 license. See LICENSE for details.
